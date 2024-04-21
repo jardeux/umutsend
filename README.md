@@ -1,5 +1,3 @@
-[![MasterHead](https://cdn.britannica.com/81/191581-050-8C0A8CD3/Alan-Turing.jpg]
-
 
 <h1 align="center">Selam 👋, I'm Umut / jardeux</h1>
 <h3 align="center">blockchain</h3>
